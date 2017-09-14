@@ -7,7 +7,7 @@ Concept of navigation controllers in an iOS app. Based on the articles:
 
 - [x] Works with factories to prepare viewControllers with there dependencies injected.
 - [x] This way viewControllers will get decoupled, to get inversion of control.
-- [x] Doesn't work with states, as I don't see any real benefit from it.
+- [x] Doesn't work with states, as I don't see any real benefit from it (for now).
 
 ## Requirements
 
@@ -19,4 +19,4 @@ Do you have any suggestion to improve this, make a pull request.
 
 ## License
 
-RealmSugar is released under the Apache license. See LICENSE for details.
+NavigationFlow is released under the Apache license. See LICENSE for details.
